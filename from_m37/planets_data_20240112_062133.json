@@ -1,0 +1,47 @@
+[
+    {
+        "name": "MERCURY",
+        "deg": 267,
+        "min": 32
+    },
+    {
+        "name": "VENUS",
+        "deg": 254,
+        "min": 52
+    },
+    {
+        "name": "Sun",
+        "deg": 292,
+        "min": 51
+    },
+    {
+        "name": "MARS",
+        "deg": 275,
+        "min": 56
+    },
+    {
+        "name": "JUPITER",
+        "deg": 33,
+        "min": 55
+    },
+    {
+        "name": "SATURN",
+        "deg": 336,
+        "min": 33
+    },
+    {
+        "name": "URANUS",
+        "deg": 47,
+        "min": 47
+    },
+    {
+        "name": "NEPTUNE",
+        "deg": 355,
+        "min": 43
+    },
+    {
+        "name": "PLUTO",
+        "deg": 302,
+        "min": 57
+    }
+]

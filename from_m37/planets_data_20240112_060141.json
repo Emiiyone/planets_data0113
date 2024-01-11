@@ -1,0 +1,47 @@
+[
+    {
+        "name": "MERCURY",
+        "right_ascension_deg": 166,
+        "right_ascension_min": 33
+    },
+    {
+        "name": "VENUS",
+        "right_ascension_deg": 126,
+        "right_ascension_min": 26
+    },
+    {
+        "name": "Sun",
+        "right_ascension_deg": 146,
+        "right_ascension_min": 46
+    },
+    {
+        "name": "MARS",
+        "right_ascension_deg": 215,
+        "right_ascension_min": 41
+    },
+    {
+        "name": "JUPITER",
+        "right_ascension_deg": 212,
+        "right_ascension_min": 0
+    },
+    {
+        "name": "SATURN",
+        "right_ascension_deg": 198,
+        "right_ascension_min": 7
+    },
+    {
+        "name": "URANUS",
+        "right_ascension_deg": 239,
+        "right_ascension_min": 8
+    },
+    {
+        "name": "NEPTUNE",
+        "right_ascension_deg": 263,
+        "right_ascension_min": 6
+    },
+    {
+        "name": "PLUTO",
+        "right_ascension_deg": 209,
+        "right_ascension_min": 34
+    }
+]
