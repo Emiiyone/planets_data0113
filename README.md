@@ -31,6 +31,7 @@ https://kotetsu1701.com/blog/msc-planet-position-calculation-1/
 https://menta.work/
 
 ⚪︎次回は、データベース設計を決める
+
 ・暫定的（MVPまで）に考えていること
 
 1. Firebaseを使う
